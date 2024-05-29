@@ -3,7 +3,8 @@ Credit Card Fraud Detection using Logistic Regression
 
 
 Project - Machine Learning Group Project Credit Card Fraud Detection 
-Names of contributors
+
+Team Members
 1. Yordanos Negusu
 2. Yoseph Zewdu
 3. Yordanos Bekele
